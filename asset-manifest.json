@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/morph/static/css/main.6e56f22f.chunk.css",
+    "main.js": "/morph/static/js/main.3e75c000.chunk.js",
+    "main.js.map": "/morph/static/js/main.3e75c000.chunk.js.map",
+    "runtime-main.js": "/morph/static/js/runtime-main.c1574ebc.js",
+    "runtime-main.js.map": "/morph/static/js/runtime-main.c1574ebc.js.map",
+    "static/css/2.383c0125.chunk.css": "/morph/static/css/2.383c0125.chunk.css",
+    "static/js/2.5441f165.chunk.js": "/morph/static/js/2.5441f165.chunk.js",
+    "static/js/2.5441f165.chunk.js.map": "/morph/static/js/2.5441f165.chunk.js.map",
+    "index.html": "/morph/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/morph/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.6e56f22f.chunk.css.map": "/morph/static/css/main.6e56f22f.chunk.css.map",
+    "static/js/2.5441f165.chunk.js.LICENSE.txt": "/morph/static/js/2.5441f165.chunk.js.LICENSE.txt",
+    "static/media/Morph.css": "/morph/static/media/bg_m.ada11610.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1574ebc.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.5441f165.chunk.js",
+    "static/css/main.6e56f22f.chunk.css",
+    "static/js/main.3e75c000.chunk.js"
+  ]
+}
